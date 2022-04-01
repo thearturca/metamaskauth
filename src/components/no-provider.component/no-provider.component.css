@@ -1,0 +1,15 @@
+.no-provider-container {
+    border: none;
+    align-items: center;
+}
+
+.no-provider-text {
+    min-width: 55%;
+}
+
+.btn-link {
+    padding: 0.6em 1.25em;
+    width: auto;
+    margin: auto;
+    margin-top: 2em;
+}
