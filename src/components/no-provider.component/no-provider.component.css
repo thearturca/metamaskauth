@@ -8,8 +8,10 @@
 }
 
 .btn-link {
-    padding: 0.6em 1.25em;
     width: auto;
+    padding: 0.6em 1.25em;
     margin: auto;
     margin-top: 2em;
+
+    text-align: center;
 }

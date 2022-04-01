@@ -6,7 +6,7 @@ function LoginSignedInComponent(props: LoginSignedInComponentProps) {
   return (
     <>
         <h1 className="header">Your public key</h1>
-        <span className="text">
+        <span className="text key">
             { props.account }
         </span>
     </>
